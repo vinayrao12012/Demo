@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A package for movies recommendation
+Author: M VINAY RAO
+Author-email: vinayrao12012@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+Movies Recommender system
